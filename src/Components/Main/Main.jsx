@@ -14,6 +14,8 @@ import { HiOutlineClipboardCheck } from "react-icons/hi";
 import Aos from "aos";
 import "aos/dist/aos.css";
 
+
+//this is a an array of data
 const Data = [
   {
     id: 1,
