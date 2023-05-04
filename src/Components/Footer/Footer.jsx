@@ -2,7 +2,7 @@ import React, {useEffect} from "react";
 import './footer.css'
 import video2 from '../../Assets/bike-72566.mp4'
 import {FiSend} from 'react-icons/fi'
-import {MdOutlineTravelExplore} from 'react-icons/md'
+import {SiYourtraveldottv} from 'react-icons/si'
 import {AiOutlineTwitter} from 'react-icons/ai'
 import {AiFillYoutube} from 'react-icons/ai'
 import {AiFillInstagram} from 'react-icons/ai'
@@ -42,8 +42,8 @@ const Footer = () => {
                     <div className="footerIntro flex">
                         <div className="logoDiv">
                             <a href="#" className="logo flex">
-                                BackRoads.
-                                <MdOutlineTravelExplore className="icon"/>
+                                RTC
+                                <SiYourtraveldottv className="icon"/>
                             </a>
                         </div>
 
